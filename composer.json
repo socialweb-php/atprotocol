@@ -22,7 +22,7 @@
         "psr/http-client-implementation": "*",
         "psr/http-factory": "^1.0",
         "psr/http-factory-implementation": "*",
-        "psr/http-message": "^1.1",
+        "psr/http-message": "^1.1 || ^2.0",
         "psr/http-message-implementation": "*"
     },
     "require-dev": {
